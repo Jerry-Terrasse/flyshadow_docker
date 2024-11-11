@@ -1,0 +1,29 @@
+{
+  "web_port": 6780,
+  "proxy_port": 6785,
+  "tproxy_port": 6786,
+  "tproxy_mode_enable": false,
+  "subscribe_password": "",
+  "select_node_name": "",
+  "native_udp": false,
+  "proxy_type": 2,
+  "udp_proxy_type": 0,
+  "tun_mode_enable": false,
+  "ipv6_enable": false,
+  "subscribe_content_entity": {
+    "node": [],
+    "user": {
+      "trafficSize": 0,
+      "trafficUpload": 0,
+      "trafficDownload": 0,
+      "money": 0.0,
+      "level": 0,
+      "expireTime": 0
+    },
+    "customRule": []
+  },
+  "direct_conn_priority": true,
+  "direct_conn_priority_timeout": 180,
+  "use_build_in_dns": true,
+  "access_control": []
+}

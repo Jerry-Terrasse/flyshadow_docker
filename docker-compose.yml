@@ -1,0 +1,6 @@
+services:
+  flyshadow:
+    build: .
+    ports:
+      - "6780:6780"
+      - "6785:6785"
